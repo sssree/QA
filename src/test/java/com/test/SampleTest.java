@@ -1,4 +1,4 @@
-package test;
+package com.test;
 
 import io.github.bonigarcia.wdm.DriverManagerType;
 import io.github.bonigarcia.wdm.WebDriverManager;

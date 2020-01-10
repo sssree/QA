@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="example suite" verbose="1" parallel="tests">
+    <test name="Regression suite 1">
+        <classes>
+            <class name="com.test.SampleTest"/>
+        </classes>
+    </test>
+</suite>

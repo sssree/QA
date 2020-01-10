@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c79b2da-d7f2-4c4d-9e07-b91592d3739c" name="Default Changelist" comment="" />
+    <list default="true" id="5c79b2da-d7f2-4c4d-9e07-b91592d3739c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/SampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/localtimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/localtimeTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -25,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1W4E9VZfCeliD9gpkOVrMcnfQQG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -50,7 +60,7 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SampleTest (1)">
+  <component name="RunManager" selected="TestNG./home/satyasais/IdeaProjects/Test/src/test/resources/SampleTest.xml">
     <configuration name="SampleTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
@@ -86,18 +96,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleTest.timedifference" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/home/satyasais/IdeaProjects/Test/src/test/resources/SampleTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.SampleTest" />
-      <option name="METHOD_NAME" value="timedifference" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/SampleTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -140,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./home/satyasais/IdeaProjects/Test/src/test/resources/SampleTest.xml" />
         <item itemvalue="TestNG.SampleTest (1)" />
         <item itemvalue="TestNG.localtimeTest" />
         <item itemvalue="TestNG.localtime" />
         <item itemvalue="TestNG.SampleTest.select" />
-        <item itemvalue="TestNG.SampleTest.timedifference" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +196,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="180" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1578475454099" />
+    <state x="357" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578646821779">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="357" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1299.741@67.27.1299.741" timestamp="1578646821779" />
     <state x="469" y="257" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578475714271">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -202,22 +208,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/67.27.1299.741@67.27.1299.741" timestamp="1578637345068" />
-    <state width="1253" height="195" key="GridCell.Tab.0.bottom" timestamp="1578646213548">
+    <state width="1253" height="195" key="GridCell.Tab.0.bottom" timestamp="1578647064260">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="195" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578646213548" />
-    <state width="1253" height="195" key="GridCell.Tab.0.center" timestamp="1578646213547">
+    <state width="1253" height="195" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578647064260" />
+    <state width="1253" height="195" key="GridCell.Tab.0.center" timestamp="1578647064260">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="195" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578646213547" />
-    <state width="1253" height="195" key="GridCell.Tab.0.left" timestamp="1578646213547">
+    <state width="1253" height="195" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578647064260" />
+    <state width="1253" height="195" key="GridCell.Tab.0.left" timestamp="1578647064259">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="195" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578646213547" />
-    <state width="1253" height="195" key="GridCell.Tab.0.right" timestamp="1578646213547">
+    <state width="1253" height="195" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578647064259" />
+    <state width="1253" height="195" key="GridCell.Tab.0.right" timestamp="1578647064260">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="195" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578646213547" />
+    <state width="1253" height="195" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578647064260" />
     <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1578470828361">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -239,7 +245,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/test/localtimeTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/localtimeTest.java</url>
           <line>14</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
