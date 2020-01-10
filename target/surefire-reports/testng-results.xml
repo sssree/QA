@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.SampleTest" duration-ms="20137" started-at="2020-01-09T11:20:04Z" finished-at="2020-01-09T11:20:24Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20137" started-at="2020-01-09T11:20:04Z" finished-at="2020-01-09T11:20:24Z">
+      <class name="test.SampleTest">
+        <test-method status="PASS" signature="google()[pri:0, instance:test.SampleTest@783e6358]" name="google" is-config="true" duration-ms="6552" started-at="2020-01-09T11:20:04Z" description="open browser" finished-at="2020-01-09T11:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="verify()[pri:0, instance:test.SampleTest@783e6358]" name="verify" duration-ms="57" started-at="2020-01-09T11:20:10Z" finished-at="2020-01-09T11:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="searchp1()[pri:1, instance:test.SampleTest@783e6358]" name="searchp1" duration-ms="1862" started-at="2020-01-09T11:20:10Z" description="first place" finished-at="2020-01-09T11:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchp1 -->
+        <test-method status="PASS" signature="searchp2()[pri:2, instance:test.SampleTest@783e6358]" name="searchp2" duration-ms="4939" started-at="2020-01-09T11:20:12Z" description="second place" finished-at="2020-01-09T11:20:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchp2 -->
+        <test-method status="PASS" signature="swap()[pri:3, instance:test.SampleTest@783e6358]" name="swap" duration-ms="1462" started-at="2020-01-09T11:20:17Z" description="swapping" finished-at="2020-01-09T11:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swap -->
+        <test-method status="PASS" signature="delete()[pri:4, instance:test.SampleTest@783e6358]" name="delete" duration-ms="1570" started-at="2020-01-09T11:20:19Z" description="deleting" finished-at="2020-01-09T11:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method status="PASS" signature="selection()[pri:5, instance:test.SampleTest@783e6358]" name="selection" duration-ms="3372" started-at="2020-01-09T11:20:20Z" description="Selecting Hyperlink" finished-at="2020-01-09T11:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selection -->
+        <test-method status="PASS" signature="quit()[pri:6, instance:test.SampleTest@783e6358]" name="quit" duration-ms="291" started-at="2020-01-09T11:20:24Z" finished-at="2020-01-09T11:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- test.SampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.SampleTest -->
+</testng-results>
